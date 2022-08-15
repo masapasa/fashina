@@ -1,0 +1,1 @@
+fashion search with Jina AI.
